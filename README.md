@@ -1,2 +1,12 @@
-졸업 프로젝트 파일임.<br>
-하는 척 하지 말고 쪽팔리더라도 정직하게 하자
+## 1. intro
+
+<br><br>
+## 2. object
+
+<br><br>
+## 3. project structure
+graduation_project<br>
+├─anlysis<br>
+│  └─dizitizing<br>
+├─data<br>
+└─outputs
